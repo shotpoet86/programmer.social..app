@@ -4,6 +4,6 @@ const router = express.Router();
 /* @route   GET api/posts
 *  @desc    Test route
 *  @access  Public*/
-router.get('/', (req, res) => res.send('user route'));
+router.get('/', (req, res) => res.send(user));
 
 module.exports = router;

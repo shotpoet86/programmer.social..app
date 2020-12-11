@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://adminUser1:admin1@devcluster.l4l58.mongodb.net/devCluster?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://adminUser1:admin1@devcluster.l4l58.mongodb.net/devCluster?retryWrites=true&w=majority",
+  "jwtSecret": "codingIsTheBest"
 }

@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e13b8f6f-d8a1-4d1c-8b70-bd19b5b82a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +70,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.server.js" />
-        <item itemvalue="npm.start" />
         <item itemvalue="Node.js.users.js" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -86,11 +87,24 @@
       <workItem from="1607547871477" duration="93000" />
       <workItem from="1607620547064" duration="5193000" />
       <workItem from="1607635625315" duration="131000" />
-      <workItem from="1607635782871" duration="1510000" />
+      <workItem from="1607635782871" duration="1564000" />
+      <workItem from="1607663958629" duration="7277000" />
     </task>
+    <task id="LOCAL-00001" summary="-created users.js post requests">
+      <created>1607637331496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607637331496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-created users.js post requests" />
+    <option name="LAST_COMMIT_MESSAGE" value="-created users.js post requests" />
   </component>
 </project>
