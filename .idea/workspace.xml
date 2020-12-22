@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e13b8f6f-d8a1-4d1c-8b70-bd19b5b82a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +36,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="15.4.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.14.13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git.search" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,6 +50,9 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="profile.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/api/profile.js" working-dir="$PROJECT_DIR$/routes/api">
+      <method v="2" />
+    </configuration>
     <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -69,6 +72,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.profile.js" />
         <item itemvalue="npm.start" />
         <item itemvalue="Node.js.users.js" />
       </list>
@@ -98,6 +102,8 @@
       <workItem from="1607721493145" duration="28000" />
       <workItem from="1607754633731" duration="3828000" />
       <workItem from="1607975282450" duration="483000" />
+      <workItem from="1608669132260" duration="45000" />
+      <workItem from="1608670399906" duration="2140000" />
     </task>
     <task id="LOCAL-00001" summary="-created users.js post requests">
       <created>1607637331496</created>
@@ -129,6 +135,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-created users.js post requests" />
